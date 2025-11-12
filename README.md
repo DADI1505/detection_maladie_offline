@@ -1,0 +1,1 @@
+# detection_maladie_offline
